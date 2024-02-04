@@ -1,4 +1,4 @@
-<h1>Sistema de regiustro </h1>
+<h1>Sistema de regiutro </h1>
 en construccion
-parar ejecutar el sitema debes poner
-`npm install react`
+parar ejecutar el sitema debes poner: 
+``npm install react``
